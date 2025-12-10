@@ -40,7 +40,7 @@ El objetivo principal de esta práctica fue incorporar una funcionalidad de bús
 ---
 
 # Estructura Completa del Proyecto Cinemapedia con Comentarios
-
+```text
 lib/
 ├── config/
 │ ├── constants/
@@ -113,7 +113,5 @@ lib/
 │
 └── main.dart
 
-
-
----
+```
 
